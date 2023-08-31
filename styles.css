@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+button{
+	padding: 10px;
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+	border: none;
+}
+.card{
+	width:300px;
+	height: 400px;
+	background-color: #f6f6f6;
+}
+.description{
+	text-align: center;
+}
